@@ -1,0 +1,14 @@
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\bin\Debug\net9.0\PatikaTCProject.exe
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\bin\Debug\net9.0\PatikaTCProject.deps.json
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\bin\Debug\net9.0\PatikaTCProject.runtimeconfig.json
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\bin\Debug\net9.0\PatikaTCProject.dll
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\bin\Debug\net9.0\PatikaTCProject.pdb
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.AssemblyInfoInputs.cache
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.AssemblyInfo.cs
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.dll
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\refint\PatikaTCProject.dll
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.pdb
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\PatikaTCProject.genruntimeconfig.cache
+C:\Users\Mevlut\Desktop\Patika Unity\PatikaTelephoneConsoleProject\PatikaTCProject\PatikaTCProject\obj\Debug\net9.0\ref\PatikaTCProject.dll
